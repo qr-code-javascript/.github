@@ -4,6 +4,8 @@ Generating QR codes with JavaScript is both fun and practical. Whether you want 
 
 QR codes (Quick Response codes) are two-dimensional barcodes that can store various types of information. They have become ubiquitous in today’s digital world due to their ability to quickly direct a smartphone camera to a URL, display text, or even share business details. In this guide, we’ll focus on how to generate these codes using JavaScript.
 
+
+
 [Explore and Download the Code](https://laststage.dev/snippet/how-to-make-a-qr-code-for-a-link-using-java-script)
 [Explore and Download the Code](https://laststage.dev/snippet/how-to-make-a-qr-code-for-a-link-using-java-script)
 [Explore and Download the Code](https://laststage.dev/snippet/how-to-make-a-qr-code-for-a-link-using-java-script)
